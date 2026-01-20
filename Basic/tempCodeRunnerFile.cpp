@@ -1,0 +1,1 @@
+cout<<"Its  not an armstrong number"<<endl;
