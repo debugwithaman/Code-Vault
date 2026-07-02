@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/debugwithaman/DSA-Journey/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/debugwithaman/DSA-Journey/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/debugwithaman/DSA-Journey/tree/master/1757-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
