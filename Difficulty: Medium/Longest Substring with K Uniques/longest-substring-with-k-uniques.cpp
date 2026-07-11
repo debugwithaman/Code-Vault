@@ -10,7 +10,7 @@ class Solution {
         unordered_map<char ,int> f;
         for(high = 0;high<n ;high++){
             f[s[high]]++;
-            int siz = f.size();
+            
             while(f.size()>k) // shrink
             {
                 f[s[low]]--;
