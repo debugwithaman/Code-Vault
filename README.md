@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithaman/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -85,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugwithaman/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugwithaman/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
