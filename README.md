@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithaman/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/debugwithaman/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
 ## Array
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithaman/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/debugwithaman/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/debugwithaman/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/debugwithaman/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/debugwithaman/DSA-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithaman/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/debugwithaman/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/debugwithaman/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
