@@ -2,7 +2,6 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_map<int,int> map;
-       int n = nums.size();
 
        for(int x : nums){
          map[x]++;
