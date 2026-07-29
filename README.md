@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithaman/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/debugwithaman/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/debugwithaman/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/debugwithaman/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/debugwithaman/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/debugwithaman/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
