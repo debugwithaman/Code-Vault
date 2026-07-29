@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool fun(unordered_map<char,int> have, unordered_map<char,int> need){
+    bool fun(unordered_map<char,int>& have, unordered_map<char,int>& need){
         for(auto i : need){
             char c = i.first;
             int fneed = i.second;
