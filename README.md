@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/debugwithaman/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
+| [1189-maximum-number-of-balloons](https://github.com/debugwithaman/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Array
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/debugwithaman/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/debugwithaman/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/debugwithaman/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/debugwithaman/DSA-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/debugwithaman/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
