@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/debugwithaman/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/debugwithaman/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithaman/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/debugwithaman/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/debugwithaman/DSA-Journey/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/debugwithaman/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithaman/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/debugwithaman/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/debugwithaman/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/debugwithaman/DSA-Journey/tree/master/0383-ransom-note) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugwithaman/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/debugwithaman/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithaman/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
