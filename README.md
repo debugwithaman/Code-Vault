@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
+| [2235-add-two-integers](https://github.com/debugwithaman/DSA-Journey/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugwithaman/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
