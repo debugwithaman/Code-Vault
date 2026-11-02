@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debugwithaman/DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debugwithaman/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/debugwithaman/DSA-Journey/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/debugwithaman/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debugwithaman/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Pigeonhole Principle
 |  |
 | ------- |
