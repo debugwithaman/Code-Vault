@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/debugwithaman/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/debugwithaman/DSA-Journey/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/debugwithaman/DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/debugwithaman/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/debugwithaman/DSA-Journey/tree/master/2235-add-two-integers) |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
