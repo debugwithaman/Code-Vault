@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/debugwithaman/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/debugwithaman/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/debugwithaman/DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/debugwithaman/DSA-Journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/debugwithaman/DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
 | ------- |
