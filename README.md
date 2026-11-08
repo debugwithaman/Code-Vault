@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/debugwithaman/DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/debugwithaman/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/debugwithaman/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [2942-find-words-containing-character](https://github.com/debugwithaman/DSA-Journey/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/debugwithaman/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/debugwithaman/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/debugwithaman/DSA-Journey/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/debugwithaman/DSA-Journey/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
