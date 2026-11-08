@@ -4,7 +4,7 @@ public:
         if(strs.empty()) return "";
         string prefix = strs[0];
 
-        for(int i=0;i<strs.size();i++){
+        for(int i=1;i<strs.size();i++){
             while(strs[i].find(prefix) != 0){
                 prefix.pop_back();
                 if(prefix.empty()) return "";
