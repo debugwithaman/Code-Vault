@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/debugwithaman/DSA-Journey/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/debugwithaman/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/debugwithaman/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/debugwithaman/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/debugwithaman/DSA-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0202-happy-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/debugwithaman/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/debugwithaman/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/debugwithaman/DSA-Journey/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/debugwithaman/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/debugwithaman/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/debugwithaman/DSA-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/debugwithaman/DSA-Journey/tree/master/0383-ransom-note) |
