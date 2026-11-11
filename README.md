@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/debugwithaman/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/debugwithaman/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/debugwithaman/DSA-Journey/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/debugwithaman/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debugwithaman/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/debugwithaman/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/debugwithaman/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/debugwithaman/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/debugwithaman/DSA-Journey/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/debugwithaman/DSA-Journey/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/debugwithaman/DSA-Journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/debugwithaman/DSA-Journey/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
